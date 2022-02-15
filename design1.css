@@ -1,0 +1,36 @@
+body{
+    background-color:#72cce0;
+    color:#29232e;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    background-color: #db9685;
+    color: whitesmoke;
+    text-shadow: 5px 5px 8px black;
+}
+
+h2{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5em;
+    color: black;    
+}
+
+
+h3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    color: black;   
+}
+
+p{
+    text-align:justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+    text-indent:70px;
+    line-height:30px;
+    word-spacing:5px;
+}
